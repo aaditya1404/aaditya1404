@@ -2,11 +2,11 @@
 
 ###
 
-<h4 align="left">💻 Software Developer | Passionate about building real-world projects<br>🌱 Learning & contributing to open-source<br>🚀 Currently looking for opportunities to collaborate on impactful projects</h4>
+<p align="left">I'm a full-stack developer who loves creating projects that have a positive impact on people's lives.<br>I enjoy exploring new tools, solving real-world problems, and continuously improving my development skills. I also enjoy contributing to open-source projects, where I collaborate with other developers, improve existing tools, and learn from the community.<br>Outside of development, I'm deeply interested in competitive coding and solving algorithm challenges.</p>
 
 ###
 
-<h4 align="left">📫 Message me on in/aaditya1404 or email me at aadityakumarvishwakarma31@gmail.com</h4>
+<h4 align="left">🌍  I'm based in Dhanbad, India<br>✉️  You can contact me at aadityakumarvishwakarma31@gmail.com<br>📫 Message me on in/aaditya1404  <br>🧠  I'm learning DevOps<br>🤝  I'm open to collaborating on Interesting and Impactful Projects.<br>🚀 Currently looking for opportunities to collaborate on impactful projects</h4>
 
 ###
 
